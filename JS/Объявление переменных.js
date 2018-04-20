@@ -1,0 +1,1 @@
+var planeta = "Земля", posetitel= "Дядя Петя"
